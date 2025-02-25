@@ -1,0 +1,41 @@
+[{
+    "_id": {
+      "$oid": "67868ab3c69cb35b43c45f60"
+    },
+    "title": "Alien 1: El Octavo Pasajero",
+    "price": "13,95",
+    "description": "Una escalofriante aventura ve a tener lugar en la nave espacial. Nostromo Siete astronautas: 5 hombres y 2 mujeres, serán los protagonistas De regreso a la Tierra, después de un vuelo espacial de reconocimiento, el ordenador de a bordo recibe un mensaje de procedencia desconocida que cambiará totalmente el rumbo del regreso. Contiene la película en 4K Ultra HD y Blu-ray. Contenidos adicionales: Incluye Versión Cinematográfica de 1979 y Versión del Director de 2003. Comentarios de Ridley Scott, reparto y equipo del 2003 y comentarios de Ridley Scott (Solo versión cinematográfica 1979) de 1999. Introducciónd de Ridley Scott (solo en Blu-ray). Música final de la versión cinematográfica (solo en Versión Cinematográfica de 1979). Índice de escenas eliminadas ¡Y más!"
+  },
+  {
+    "_id": {
+      "$oid": "67868ab3c69cb35b43c45f61"
+    },
+    "title": "Trilogía El Señor De Los Anillos Extendida",
+    "price": "49,99",
+    "description": "Las tres películas que forman la trilogía El Señor de los Anillos han hecho historia. El viaje comienza en La Comunidad del Anillo, continúa en Las Dos Torres y presencia su espectacular final en El Retorno del Rey. Cada una de las entregas permite descubrir la Tierra Media de una forma asombrosa, compartiendo con los espectadores un viaje inolvidable en el que se recorren los paisajes más llamativos. La colección en Blu-ray en su versión extendida está formada por 15 discos (algunos en DVD) en los que no solo es posible disfrutar de las películas, sino que se incluye también una gran cantidad de extras. Entre estos extras hay una gran cantidad de documentales, audio-comentarios, galerías fotográficas y contenidos añadidos que harán las delicias de quienes siempre quisieron conocer más en profundidad a los habitantes de la Tierra Media."
+  },
+  {
+    "_id": {
+      "$oid": "67868ab3c69cb35b43c45f62"
+    },
+    "title": "Trilogia completa Matrix (Edición coleccionista)",
+    "price": "74,99",
+    "description": "Disco 1. Matrix : La percepción: Nuestro mundo es real. La realidad: Ese mundo es un sueño, una complicada trampa elaborada por un programa de ordenador de inteligencia artificial que controla nuestra vida. Deformación de la mente. Efectos visuales de última tecnología. Acción espectacular. Keanu Reeves y Laurence Fishburne emprenden una batalla para liberar la humanidad en Matrix, un caber thriller escrito y dirigido por los hermanos Wachowski (Bound). La historia penetra en tu mente, los efectos especiales superan todo lo imaginable adentrándose en un nuevo concepto dentro de la realidad cinematográfica. Con Matrix creerás lo increíble. Disco 2. Matrix Reloaded : Enjambre de centinela. Clones de Smith. Neo vuela... pero quizás ni siquiera el Elegido dotado de nuevos y asombrosos poderes pueda detener el avance de las máquinas. Neo. Morpheo. Trinity. Vuelven ahora en la poderosa segunda parte de la Trilogía Matrix con excitantes nuevos aliados unidos en la lucha contra los enemigos clonados, mejorados y más cercanos al último enclave humano. De vuelta también los hermanos Wachowski y el productor Joel Silver, expandiendo su visión con un espectáculo que sacude los sentidos, prueba los corazones y da forma a las producciones cinematográficas del mañana. Disco 3. Matrix Revolutions : Todo principio tiene un final... Así reza la frase publicitaria de 'Matrix Revolutions', el cierre de la trilogía creada por los Wachowski Bros. Una frase que la va como anillo al dedo a esta historia que ha sido considerada como esa nueva forma de hacer cine. Aquí sabremos por fin lo que sucede con Neo el Elegido, la suerte que corren los habitantes de la ciudad de Sión, cómo acabará el romance entre Neo y Trinity, el número de clones que tiene el agente Smith, y sobre todo, conoceremos el destino de la raza humana. Todo eso y más, en 'Matrix Revolutions'."
+  },
+  {
+    "_id": {
+      "$oid": "67868ab3c69cb35b43c45f63"
+    },
+    "title": "Star Wars Episodios 4-6 (Blu-ray + Blu-ray Extras) (6 discos) (Ediciones remasterizadas): La Guerra de las Galaxias, El Imperio Contraataca, El Retorno del Jedi",
+    "price": "25,85",
+    "description": "LA GUERRA DE LAS GALAXIAS: • Comentarios en Audio de George Lucas, Rick McCallum, Ben Burtt, Rob Coleman, Dennis Mures y Scott Squires • Entrevistas de archivo al reparto y al equipo de rodaje LA GUERRA DE LAS GALAXIAS - DISCO BONUS: • CONVERSACIONES: CREANDO UN UNIVERSO • HALLAZGOS DESDE DENTRO: ARMAS Y LA PRIMERA ESPADA LÁSER • EL LEGADO EL IMPERIO CONTRAATACA: • Comentarios en Audio de George Lucas, Rick McCallum, Ben Burtt, Rob Coleman, Dennis Mures y Scott Squires • Entrevistas de archivo al reparto y al equipo de rodaje EL IMPERIO CONTRAATACA - DISCO BONUS: • CONVERSACIONES: LAS ENTREVISTAS PERDIDAS • HALLAZGOS DESDE DENTRO: MATTE PAINTINGS DESVELADOS • EL LEGADO EL RETORNO DEL JEDI: • Comentarios en Audio de George Lucas, Rick McCallum, Ben Burtt, Rob Coleman, Dennis Mures y Scott Squires • Entrevistas de archivo al reparto y al equipo de rodaje EL RETORNO DEL JEDI - DISCO BONUS: • CONVERSACIONES: LOS EFECTOS • HALLAZGOS DESDE DENTRO: LOS SONIDOS DE BEN BURTT • EL LEGADO."
+  },
+  {
+    "_id": {
+      "$oid": "67868ab3c69cb35b43c45f64"
+    },
+    "title": "La Historia Interminable [Blu-ray]",
+    "price": "49,99",
+    "description": "Escondido en el desván de su colegio, Bastian devora durante las horas de clase un libro enigmático, ”La historia interminable”, que relata la paulatina destrucción del Reino de Fantasía. Una especie de ”Nada” misteriosa destruye el país y a las criaturas que lo habitan."
+  }
+]
