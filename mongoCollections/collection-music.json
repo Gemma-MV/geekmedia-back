@@ -4,7 +4,8 @@
     },
     "title": "Thriller, Michael Jackson",
     "price": "23,99",
-    "description": "Thriller es el sexto álbum de estudio del cantante estadounidense Michael Jackson, publicado el 29 de noviembre de 1982 por Epic Records. Producido por Quincy Jones, la obra está compuesta por un balance de varios géneros musicales: entre disco y rock, funk y balada, R&B y pop. El propio Jackson escribió cuatro de las nueve canciones del álbum. El disco contó con la colaboración de Paul McCartney, exmiembro de The Beatles, además de varios integrantes de la banda de rock Toto, entre ellos Jeff Porcaro (batería), Steve Porcaro y David Paich (teclados), Steve Lukather (guitarra) y el teclista Greg Phillinganes."
+    "description": "Thriller es el sexto álbum de estudio del cantante estadounidense Michael Jackson, publicado el 29 de noviembre de 1982 por Epic Records. Producido por",
+    "seeMore": " Quincy Jones, la obra está compuesta por un balance de varios géneros musicales: entre disco y rock, funk y balada, R&B y pop. El propio Jackson escribió cuatro de las nueve canciones del álbum. El disco contó con la colaboración de Paul McCartney, exmiembro de The Beatles, además de varios integrantes de la banda de rock Toto, entre ellos Jeff Porcaro (batería), Steve Porcaro y David Paich (teclados), Steve Lukather (guitarra) y el teclista Greg Phillinganes."
   },
   {
     "_id": {
@@ -12,7 +13,8 @@
     },
     "title": "I Never Loved a Man the Way I, Aretha Franklin",
     "price": "20,99",
-    "description": "I never loved a man the way I love you es el noveno álbum de Aretha Franklin, el primero editado por ella en la discográfica Atlantic. Se puede decir que es la obra suprema de Lady Soul. Es un conjunto de grandes canciones que pasarán a la historia; pero de las que destaca la innolvidable Respect. El debut de Aretha en Atlantic y la inclusión de este gran éxito, han hecho del álbum todo un clásico. Está producido por Jerry Wexler; habitual de Aretha y su sonido anterior en el sello Columbia, asesorado por la banda de Muscle Shoals; Wexler creó un material ideal para hacer a Aretha subir definitivamente al trono del soul, a lo que ella respondió con las interpretaciones más brillantes y apasionadas de toda su carrera."
+    "description": "I never loved a man the way I love you es el noveno álbum de Aretha Franklin, el primero editado por ella en la discográfica Atlantic. Se puede decir que",
+    "seeMore": " es la obra suprema de Lady Soul. Es un conjunto de grandes canciones que pasarán a la historia; pero de las que destaca la innolvidable Respect. El debut de Aretha en Atlantic y la inclusión de este gran éxito, han hecho del álbum todo un clásico. Está producido por Jerry Wexler; habitual de Aretha y su sonido anterior en el sello Columbia, asesorado por la banda de Muscle Shoals; Wexler creó un material ideal para hacer a Aretha subir definitivamente al trono del soul, a lo que ella respondió con las interpretaciones más brillantes y apasionadas de toda su carrera."
   },
   {
     "_id": {
@@ -20,7 +22,8 @@
     },
     "title": "Ramones, Ramones",
     "price": "27,99",
-    "description": "Ramones es el primer álbum del grupo de punk rock estadounidense Ramones. En el disco presenta las primeras corrientes de este género musical, además de apreciarse influencias de grupos pertenecientes a la British Invasion (grupos ingleses que triunfaron en EE. UU. en la década de 1960), especialmente de The Velvet Underground, The Stooges y grupos de pop chicle de principios de los '60 como The Ronettes o The Shirelles."
+    "description": "Ramones es el primer álbum del grupo de punk rock estadounidense Ramones. En el disco presenta las primeras corrientes de este género musical,",
+    "seeMore": " además de apreciarse influencias de grupos pertenecientes a la British Invasion (grupos ingleses que triunfaron en EE. UU. en la década de 1960), especialmente de The Velvet Underground, The Stooges y grupos de pop chicle de principios de los '60 como The Ronettes o The Shirelles."
   },
   {
     "_id": {
@@ -28,7 +31,8 @@
     },
     "title": "Cold Fact, Rodriguez",
     "price": "7,99",
-    "description": "Cold Fact fue el primer álbum del músico y compositor estadounidense Rodríguez, editado en marzo de 1970 por el sello Sussex Records. Incluye canciones que combinan folk rock, rock psicodélico y pop con letras de contenido social. Las ventas del disco fracasaron en Estados Unidos debido en parte a que su sello era distribuido por Buddah Records, sin embargo se convirtió en un disco de culto en Sudáfrica donde vendió alrededor de 60.000 copias. La razón principal de este éxito se hallaba en que las letras de las canciones sintonizaban con el clima de disconformidad de amplios sectores de la población joven blanca con el apartheid, el rechazo al servicio militar obligatorio para blancos y el clima de represión cultural y sexual imperante en los años 1970 en la sociedad sudafricana. También alcanzó gran difusión en Australia y Nueva Zelanda."
+    "description": "Cold Fact fue el primer álbum del músico y compositor estadounidense Rodríguez, editado en marzo de 1970 por el sello Sussex Records. Incluye canciones que",
+    "seeMore": " combinan folk rock, rock psicodélico y pop con letras de contenido social. Las ventas del disco fracasaron en Estados Unidos debido en parte a que su sello era distribuido por Buddah Records, sin embargo se convirtió en un disco de culto en Sudáfrica donde vendió alrededor de 60.000 copias. La razón principal de este éxito se hallaba en que las letras de las canciones sintonizaban con el clima de disconformidad de amplios sectores de la población joven blanca con el apartheid, el rechazo al servicio militar obligatorio para blancos y el clima de represión cultural y sexual imperante en los años 1970 en la sociedad sudafricana. También alcanzó gran difusión en Australia y Nueva Zelanda."
   },
   {
     "_id": {
@@ -36,6 +40,7 @@
     },
     "title": "Are You Experienced, Jimi Hendrix",
     "price": "31,99",
-    "description": "Are You Experienced es el álbum debut de la banda angloamericana de rock Jimi Hendrix Experience, publicado en 1967 a través del sello discográfico Track Records. El LP fue un éxito comercial y de crítica y uno de los más exitosos discos debut de la historia del rock. Se basa en la innovadora forma de componer y tocar la guitarra eléctrica de Jimi Hendrix y supuso el comienzo de una nueva dirección en el rock psicodélico y el hard rock."
+    "description": "Are You Experienced es el álbum debut de la banda angloamericana de rock Jimi Hendrix Experience, publicado en 1967 a través del sello discográfico",
+    "seeMore": " Track Records. El LP fue un éxito comercial y de crítica y uno de los más exitosos discos debut de la historia del rock. Se basa en la innovadora forma de componer y tocar la guitarra eléctrica de Jimi Hendrix y supuso el comienzo de una nueva dirección en el rock psicodélico y el hard rock."
   }
 ]

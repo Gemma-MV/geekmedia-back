@@ -4,7 +4,8 @@
     },
     "title": "Cómo sobrevivir al apocalipsis zombi con tu madre",
     "price": "18,50",
-    "description": "El apocalipsis zombi ha llegado. Era algo que se veía venir desde hace tiempo y, por suerte, había abundante información sobre cómo defenderse o exterminar prácticamente a cualquier tipo de muerto viviente con el que nos podamos encontrar esta vez. Bibliografía varia, series de televisión y un largo etcétera, de acuerdo, pero ¿qué sucede si lo más difícil para tu supervivencia lo tienes en casa porque ha sobrevivido junto a ti y te conoce como si te hubiera parido porque realmente lo ha hecho? Si ya te costaba la vida normal junto a ella ¿¿Cómo vas a sobrevivir al apocalipsis zombis junto a tu madre?? En este libro, seguramente el más esencial para tu supervivencia llegado el momento, tienes todas las claves ¡¡tengas el tipo de madre que tengas!!"
+    "description": "El apocalipsis zombi ha llegado. Era algo que se veía venir desde hace tiempo y, por suerte, había abundante información sobre cómo defenderse o exterminar",
+    "seeMore": " prácticamente a cualquier tipo de muerto viviente con el que nos podamos encontrar esta vez. Bibliografía varia, series de televisión y un largo etcétera, de acuerdo, pero ¿qué sucede si lo más difícil para tu supervivencia lo tienes en casa porque ha sobrevivido junto a ti y te conoce como si te hubiera parido porque realmente lo ha hecho? Si ya te costaba la vida normal junto a ella ¿¿Cómo vas a sobrevivir al apocalipsis zombis junto a tu madre?? En este libro, seguramente el más esencial para tu supervivencia llegado el momento, tienes todas las claves ¡¡tengas el tipo de madre que tengas!!"
   },
   {
     "_id": {
@@ -12,7 +13,8 @@
     },
     "title": "Marvel. Todo lo que siempre quisiste saber",
     "price": "20,85",
-    "description": "Sucesos espectaculares, información increíble y asombrosas curiosidades relacionadas con todos los superhéroes y villanos del universo Marvel Comics. Secretos al descubierto, acontecimientos insólitos y sorprendentes tramas que apasionarán a los fans de Marvel. Todo lo que siempre quisiste saber repasa la trayectoria de todos los personajes Marvel y sus peculiaridades incluyendo Spiderman, Los Vengadores o Daredevil entre muchos otros. ¡Descubre por qué Hulk puede mutar en tres colores distintos (verde, gris y rojo) o cómo una vez una rana se hizo con los poderes de Thor!"
+    "description": "Sucesos espectaculares, información increíble y asombrosas curiosidades relacionadas con todos los superhéroes y villanos del universo Marvel Comics.",
+    "seeMore": " Secretos al descubierto, acontecimientos insólitos y sorprendentes tramas que apasionarán a los fans de Marvel. Todo lo que siempre quisiste saber repasa la trayectoria de todos los personajes Marvel y sus peculiaridades incluyendo Spiderman, Los Vengadores o Daredevil entre muchos otros. ¡Descubre por qué Hulk puede mutar en tres colores distintos (verde, gris y rojo) o cómo una vez una rana se hizo con los poderes de Thor!"
   },
   {
     "_id": {
@@ -20,15 +22,18 @@
     },
     "title": "100 años de TBO",
     "price": "65",
-    "description": "En marzo de 2017 se cumplieron cien años de la aparición de TBO, la revista de historietas que dio nombre a los tebeos. En ella colaboraron algunos de los más destacados ilustradores y autores del país, y en sus páginas se publicaron series tan populares y emblemáticas como Los grandes inventos de TBO o La familia Ulises. Una estupenda ocasión para redescubrir, en compañía de tus hijos, los grandes clásicos de los tebeos."
+    "description": "En marzo de 2017 se cumplieron cien años de la aparición de TBO, la revista de historietas que dio nombre a los tebeos. En ella colaboraron algunos de los más",
+    "seeMore": " destacados ilustradores y autores del país, y en sus páginas se publicaron series tan populares y emblemáticas como Los grandes inventos de TBO o La familia Ulises. Una estupenda ocasión para redescubrir, en compañía de tus hijos, los grandes clásicos de los tebeos."
   },
   {
     "_id": {
       "$oid": "67868ab3c69cb35b43c45f5b"
     },
-    "title": "Canción de hielo y fuego: (edición limitada en estuche con: Juego de tronos | Choque de reyes | Tormenta de espadas | Festín de cuervos | Danza de dragones)",
+    "title": "Pack Canción de hielo y fuego",
+    "moreTitle": "(edición limitada en estuche con: Juego de tronos | Choque de reyes | Tormenta de espadas | Festín de cuervos | Danza de dragones)",
     "price": "71,01",
-    "description": "La serie «Canción de hielo y fuego» de George R.R. Martin ha establecido el punto de referencia de la fantasía épica contemporánea. Se compone de tres grandes líneas argumentales, que se entretejen a lo largo de los libros: la guerra civil por el control de los Siete Reinos; la defensa del imponente Muro de Hielo en el extremo más septentrional contra la amenaza sobrenatural de los Otros; y, al otro lado del Mar Angosto, el ascenso al poder de Daenerys Targaryen y los últimos dragones vivos del mundo."
+    "description": "La serie «Canción de hielo y fuego» de George R.R. Martin ha establecido el punto de referencia de la fantasía épica contemporánea. Se compone de tres ",
+    "sseeMore": " grandes líneas argumentales, que se entretejen a lo largo de los libros: la guerra civil por el control de los Siete Reinos; la defensa del imponente Muro de Hielo en el extremo más septentrional contra la amenaza sobrenatural de los Otros; y, al otro lado del Mar Angosto, el ascenso al poder de Daenerys Targaryen y los últimos dragones vivos del mundo."
   },
   {
     "_id": {
@@ -36,6 +41,7 @@
     },
     "title": "Pack Harry Potter - La serie completa",
     "price": "80,65",
-    "description": "El día que Harry Potter cumple once años, Rubeus Hagrid, un hombre gigantesco cuyos ojos brillan como escarabajos negros, irrumpe con una noticia extraordinaria: Harry es un mago, y le han concedido una plaza en el Colegio Hogwarts de Magia y Hechicería. ¡Está a punto de comenzar una aventura increíble!"
+    "description": "El día que Harry Potter cumple once años, Rubeus Hagrid, un hombre gigantesco cuyos ojos brillan como escarabajos negros, irrumpe con una ",
+    "seeMore": " noticia extraordinaria: Harry es un mago, y le han concedido una plaza en el Colegio Hogwarts de Magia y Hechicería. ¡Está a punto de comenzar una aventura increíble!"
   }
 ]
