@@ -2,8 +2,11 @@
 import express,{ json, urlencoded } from 'express';
 // Cors es Un mecanismo que permite que recursos restringidos en una página web sean solicitados desde otro dominio fuera del dominio desde el que se sirvió el recurso.
 import cors from 'cors';
+// Importamos el archivo donde tenemos los endpoints de las rutas
 import { router } from '../geekmedia-back/routes/routes.js';
+// Convierte URLs de archivos (como import.meta.url) en rutas de archivo normales que entienden los sistemas operativos, esto y path lo vamos a usar para acceder a la ruta de las imagenes
 import { fileURLToPath } from 'url';
+// Path es un módulo nativo de Node.jsque permite trabajar con rutas de archivos y directorios en tu sistema
 import path from 'path';
 // Dotenv es lo que nos permite utilizar el archivo env
 import dotenv from 'dotenv';
@@ -13,9 +16,12 @@ dotenv.config();
 
 // Almacenamos en una constante app la aplicacion en express para que nos sea mas facil trabajar con ella
 const app = express();
+// __filename obtiene la ruta completa del archivo actual
 const __filename = fileURLToPath(import.meta.url);
+// __dirname obtiene la carpeta que contiene este archivo
 const __dirname = path.dirname(__filename);
 app.use(cors());
+// express.static sirve archivos estáticos como imágenes, vídeos o documentos desde las carpetas especificadas y path.join(__dirname, 'resources/books') construye una ruta absoluta al directorio resources/books para que los archivos en esta carpeta puedan ser accesibles desde el navegador.
 app.use(express.static(path.join(__dirname, 'resources/books')));
 app.use(express.static(path.join(__dirname, 'resources/movies')));
 app.use(express.static(path.join(__dirname, 'resources/music')));

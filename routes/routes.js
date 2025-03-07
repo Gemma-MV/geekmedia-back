@@ -12,7 +12,7 @@ const app = express();
 //Enpoint de conexion
 router.get('/geekmedia', genericControler);
 router.get('/geekmedia/books/all-books', books.allBooks);
-// router.get('/geekmedia/books/one-book', books.oneBook);
+// router.get('/geekmedia/books/one-book/:id', books.oneBook);
 router.get('/geekmedia/movies/all-movies', movies.allMovies);
 router.get('/geekmedia/music/all-music', music.allMusic);
 
