@@ -15,6 +15,8 @@ CREATE TABLE clients(
     PRIMARY KEY (id)
 );
 
+ALTER TABLE clients ADD COLUMN isAdmin BOOLEAN NOT NULL DEFAULT 0;
+
 CREATE TABLE sales(
 	id INT AUTO_INCREMENT,
     fk_id_client INT NOT NULL,
